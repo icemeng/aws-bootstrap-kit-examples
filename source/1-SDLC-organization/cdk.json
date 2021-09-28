@@ -11,7 +11,7 @@
     "email": "menglipeng@gmail.com",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
-      "ap-northeast-1"
+      "ap-southeast-1"
     ]
   }
 }
